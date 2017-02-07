@@ -1,0 +1,16 @@
+.Comment-right{
+	text-align: left;
+
+}
+
+.CommentsPage-Items{
+	font-family: "Helvita", arial;
+	font-size: 14px;
+}
+
+.CommentsPage-Comment{
+	margin: 10px;
+	padding-bottom: 5px;
+	border-bottom: 1px solid #ccc;
+}
+
